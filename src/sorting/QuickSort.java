@@ -31,7 +31,6 @@ public class QuickSort {
         quickSort(A, p, e);
 
     }
-
     static  int position(int[] A, int s, int e){
         int p=s;
         int l=s+1;
